@@ -3,3 +3,7 @@
 ## CASAS DE LA MÁS BASICA A LA MÁS PREMIUM 
 
 ### LINEAMIENTOS DEL PROYECTO 
+
+#### FUENTES 
+
+1. Railway = font-family: "Raleway", serif;
